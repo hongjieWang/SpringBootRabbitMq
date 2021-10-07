@@ -1,0 +1,2 @@
+# SpringBootRabbitMq
+SpringBoot基础RabbitMq系列教程
